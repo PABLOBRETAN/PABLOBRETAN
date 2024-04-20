@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PABLOBRETAN
 - 👀 I’m interested in MULHERES
-- 🌱 I’m currently learning FISIOTERAPIA E ANALISE DESELVOLVIMENTO DE SISTEMAS
+- 🌱 I’m currently learning MATEMÁTICA E ANALISE DESELVOLVIMENTO DE SISTEMAS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
