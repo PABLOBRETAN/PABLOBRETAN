@@ -20,7 +20,7 @@ Git & GitHub<br>
 Metodologias Ágeis (Scrum, Kanban)<br>
 Desenvolvimento Front-End e Back-End<br>
 📫 Contato<br>
-📧 E-mail: bretanpablo@gmail.com<br>
+📧 E-mail: bretanp@gmail.com<br>
 📱 WhatsApp: +55 17 99706-6601<br>
 📷 Instagram: @bretan_dev<br>
 🌐 Meu site: - ![shuttle_2285485](https://github.com/PABLOBRETAN/PABLOBRETAN/assets/138078633/34efa3f4-1973-4f12-8293-636b1af89344)
